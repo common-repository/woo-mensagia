@@ -1,0 +1,787 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mensagia for WooCoomerce\n"
+"POT-Creation-Date: 2020-10-14 12:35+0200\n"
+"PO-Revision-Date: 2020-10-14 12:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ca_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woo-mensagia.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/MensagiaPrestashopExport.php:77
+msgid "Import completed"
+msgstr "Importació completada"
+
+#: classes/MensagiaPrestashopExport.php:78
+msgid "Total contacts processed"
+msgstr "Total de contactes processats"
+
+#: classes/MensagiaPrestashopExport.php:80
+msgid "Total contacts created"
+msgstr "Total de contactes creats"
+
+#: classes/MensagiaPrestashopExport.php:82
+msgid "Total contacts imported"
+msgstr "Total de contactes importats"
+
+#: classes/MensagiaPrestashopExport.php:84
+msgid "Total errors"
+msgstr "Errors totals"
+
+#: classes/MensagiaPrestashopExport.php:115
+msgid "Import groups to Mensagia"
+msgstr "Importar grups a Mensagia"
+
+#: classes/MensagiaPrestashopExport.php:131
+msgid "Request processed correctly."
+msgstr "Sol·licitud processada correctament."
+
+#: classes/MensagiaPrestashopExport.php:132
+msgid "Processed contacts"
+msgstr "Contactes processats"
+
+#: classes/MensagiaPrestashopExport.php:134
+msgid "Created contacts"
+msgstr "Contactes creats"
+
+#: classes/MensagiaPrestashopExport.php:136
+msgid "Imported contacts"
+msgstr "Contactes importats"
+
+#: classes/MensagiaPrestashopExport.php:138
+msgid "Errors"
+msgstr "Errors"
+
+#: classes/MensagiaPrestashopExport.php:172
+msgid "There was an error importing in Mensagia."
+msgstr "S'ha produït un error en importar a Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:186
+msgid "Import finished. Completed requests: "
+msgstr "Importació finalitzada. Petició finalitzades:"
+
+#: classes/MensagiaPrestashopExport.php:190
+msgid "Making request to Mensagia. Completed requests: "
+msgstr "Fent peticions a Mensagia. Peticions finalitzades:"
+
+#: classes/MensagiaPrestashopExport.php:194
+msgid "There was an unexpected error checking the processes in Mensagia."
+msgstr ""
+"S'ha produït un error inesperat en la comprovació dels processos a Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:220
+msgid "Import requests to Mensagia"
+msgstr "Peticions d’importació a Mensagia"
+
+#: classes/MensagiaPrestashopExport.php:227
+msgid "Users import requests to the agenda: "
+msgstr "Peticions d’importació a la agenda:"
+
+#: classes/MensagiaPrestashopExport.php:233
+msgid "Request successfully made. Request number "
+msgstr "Petició realitzada amb èxit. Número de petició"
+
+#: classes/MensagiaPrestashopExport.php:276
+msgid "Import requests from groups to Mensagia finished"
+msgstr "S'han acabat les sol·licituds d'importació de grups a Missatges"
+
+#: classes/MensagiaPrestashopExport.php:278
+#: classes/MensagiaPrestashopExport.php:287
+msgid "Import request from groups to Mensagia finished"
+msgstr "S'ha acabat la sol·licitud d'importació de grups a Mensagia"
+
+#: classes/MensagiaPrestashopExport.php:291
+msgid "Import requests to Mensagia have completed successfully."
+msgstr "Les sol·licituds d'importació a Mensagia s'han completat correctament."
+
+#: classes/MensagiaPrestashopExport.php:296
+msgid "Groups to export do not have valid users."
+msgstr "Els grups a exportar no tenen usuaris vàlids."
+
+#: classes/MensagiaPrestashopExport.php:662
+msgid "Extra fields"
+msgstr "Camps personalitzats"
+
+#: classes/MensagiaPrestashopExport.php:665
+msgid "Checking extra fields: "
+msgstr "Comprovació de camps personalitzats:"
+
+#: classes/MensagiaPrestashopExport.php:671
+msgid "The extra field doesn't exist on Mensagia."
+msgstr "El camp personalitzat no existeix a Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:696
+msgid "Extra field created succesfully."
+msgstr "Camp personalitzat creat amb èxit."
+
+#: classes/MensagiaPrestashopExport.php:699
+#: classes/MensagiaPrestashopExport.php:700
+msgid "Error when creating an extra field"
+msgstr "S'ha produït un error en crear un camp personalitzat"
+
+#: classes/MensagiaPrestashopExport.php:706
+msgid "The extra field already exists in Mensagia."
+msgstr "Ja existeix el camp personalitzat a Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:728
+msgid "Delete agendas"
+msgstr "Eliminar agendes"
+
+#: classes/MensagiaPrestashopExport.php:731
+msgid "Deleting agenda: "
+msgstr "Eliminant l'agenda:"
+
+#: classes/MensagiaPrestashopExport.php:741
+msgid "Agenda deleted succesfully."
+msgstr "S'ha esborrat l'agenda amb èxit."
+
+#: classes/MensagiaPrestashopExport.php:744
+msgid "The agenda could not be deleted."
+msgstr "No s'ha pogut esborrar l'agenda."
+
+#: classes/MensagiaPrestashopExport.php:748
+msgid "The agenda doesn't exist in Mensagia."
+msgstr "L'agenda no existeix a Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:775
+msgid "Creating agenda in Mensagia"
+msgstr "Creant agenda a Mensagia"
+
+#: classes/MensagiaPrestashopExport.php:778
+msgid "Creating agenda: "
+msgstr "Creant agenda:"
+
+#: classes/MensagiaPrestashopExport.php:786
+msgid "The agenda exists in Mensagia."
+msgstr "L'agenda existeix a Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:793
+msgid "Agenda created succesfully."
+msgstr "Agenda creada amb èxit."
+
+#: classes/MensagiaPrestashopExport.php:796
+#: classes/MensagiaPrestashopExport.php:797
+msgid "Error creating agenda"
+msgstr "S'ha produït un error en crear l’agenda"
+
+#: classes/MensagiaPrestashopExport.php:818
+msgid "Preparing export groups to Mensagia"
+msgstr "Preparant grups per exportar a Mensagia"
+
+#: classes/MensagiaPrestashopExport.php:820
+msgid "Collecting information for export to Mensagia."
+msgstr "Recopilant informació per exportar a Mensagia."
+
+#: views/configuration.php:2 woo-mensagia.php:123 woo-mensagia.php:124
+msgid "Configuration"
+msgstr "Configuració"
+
+#: views/configuration.php:9
+msgid "You must enter your Mensagia's access data before using this plugin"
+msgstr ""
+"Heu d'introduir les dades d'accés de la vostra compte de Mensagia abans "
+"d'utilitzar aquest plugin"
+
+#: views/configuration.php:12
+msgid "You must enter a valid Mensagia account before using this plugin"
+msgstr ""
+"Heu d'introduir un compte de Mensagia vàlid abans d'utilitzar aquest plugin"
+
+#: views/configuration.php:18
+msgid ""
+"In order to use the Mensagia plugin you must configure it first. Correct the "
+"following errors:"
+msgstr ""
+"Per utilitzar el plugin de Mensagia primer heu de configurar-lo. Corregiu "
+"els errors següents:"
+
+#: views/configuration.php:42
+msgid "Connect your Mensagia account with Wordpress"
+msgstr "Connecteu el vostre compte de Mensagia amb Wordpress"
+
+#: views/configuration.php:49
+msgid "You must connect your Mensagia account to use this plugin"
+msgstr ""
+"Heu de connectar el vostre compte de Mensagia per utilitzar aquest plugin"
+
+#: views/configuration.php:56
+msgid "Mensagia's email access"
+msgstr "Correu electrònic d’accés Mensagia"
+
+#: views/configuration.php:68
+msgid "Mensagia's password access"
+msgstr "Contrasenya d’accés a Mensagia"
+
+#: views/configuration.php:89
+msgid "Account correctly connected to Mensagia"
+msgstr "Compte correctament connectat a Mensagia"
+
+#: views/configuration.php:103
+msgid "Available balance"
+msgstr "Saldo disponible"
+
+#: views/configuration.php:123
+msgid "Create new account"
+msgstr "Crea un compte nou"
+
+#: views/configuration.php:124
+msgid "Add balance"
+msgstr "Afegir saldo"
+
+#: views/configuration.php:125
+msgid "Remember password"
+msgstr "Recordar contrasenya"
+
+#: views/configuration.php:139 views/configuration.php:231
+#: views/configuration.php:356 views/configuration.php:405
+#: views/partials/textarea.php:49
+msgid "Save"
+msgstr "Guardar"
+
+#: views/configuration.php:152
+msgid "Send API settings and source address"
+msgstr "Configuració d’enviament i remitent"
+
+#: views/configuration.php:167 views/configuration.php:209
+#: views/configuration.php:218 views/configuration.php:320
+msgid "Attention!"
+msgstr "Atenció!"
+
+#: views/configuration.php:167
+msgid ""
+"You must choose a source address configuration in order to use SMS "
+"Notifications"
+msgstr ""
+"Heu d'escollir una configuració d’enviament per poder utilitzar les "
+"Notificacions SMS"
+
+#: views/configuration.php:175
+msgid "Choose configuration to send"
+msgstr "Tria la configuració per enviar"
+
+#: views/configuration.php:180
+msgid "Choose a configuration to send..."
+msgstr "Tria una configuració per enviar ..."
+
+#: views/configuration.php:197
+msgid "The source address will be"
+msgstr "El remitent serà"
+
+#: views/configuration.php:209
+msgid ""
+"You do not have any configuration to send created in Mensagia. You must "
+"create one in:"
+msgstr ""
+"No teniu cap configuració d’enviament creada a Mensagia. Heu de crear una a:"
+
+#: views/configuration.php:209
+msgid "API shipment settings in Mensagia"
+msgstr "Configuració d’enviament API a Mensagia"
+
+#: views/configuration.php:218
+msgid ""
+"You must first configure your access to Mensagia before configuring the "
+"configuration to send."
+msgstr ""
+"Primer heu de configurar l'accés a Mensagia abans de escollir la "
+"configuració amb la que vulgueu enviar."
+
+#: views/configuration.php:247
+msgid "Shop administrators"
+msgstr "Administradors de la botiga"
+
+#: views/configuration.php:253
+msgid ""
+"Create store administrators to recieve SMS notifications of administrator "
+"type."
+msgstr ""
+"Crea administradors de la botiga per rebre notificacions per SMS de tipus "
+"d'administrador."
+
+#: views/configuration.php:258 views/configuration.php:385
+msgid "Name"
+msgstr "Nom"
+
+#: views/configuration.php:259 views/configuration.php:394
+msgid "Phone number"
+msgstr "﻿Número de telèfon"
+
+#: views/configuration.php:260 views/configuration.php:273
+msgid "Delete"
+msgstr "Esborrar"
+
+#: views/configuration.php:287
+msgid "Attention"
+msgstr "Atenció"
+
+#: views/configuration.php:287
+msgid ""
+"You do not have administrators created, you must create at least one to use "
+"SMS Notifications."
+msgstr ""
+"No teniu administradors creats, heu de crear com a mínim un per utilitzar "
+"les Notificacions SMS."
+
+#: views/configuration.php:290
+msgid ""
+"Create store administrators to recieve SMS notifications of administrator "
+"type"
+msgstr ""
+"Crea administradors de la botiga per rebre notificacions per SMS de tipus "
+"d'administrador."
+
+#: views/configuration.php:302 views/configuration.php:376
+msgid "Create administrator"
+msgstr "Crear administradors"
+
+#: views/configuration.php:314
+msgid "Management of international prefixes on mobile numbers"
+msgstr "Gestió de prefixos internacionals sobre números mòbils"
+
+#: views/configuration.php:320
+msgid ""
+"You must choose how we will handle the prefixes of your contact's mobile "
+"numbers."
+msgstr ""
+"Heu d'escollir com gestionarem els prefixos dels números de telèfon dels "
+"vostres contactes."
+
+#: views/configuration.php:326
+msgid ""
+"In order to send SMS we need numbers to have prefixes. Tell us how we should "
+"proceed with your contacts's mobile numbers"
+msgstr ""
+"Per poder enviar SMS necessitem que els números de mòbil tinguin prefixos. "
+"Indicans com hem de procedir amb els números de mòbil dels teus contactes"
+
+#: views/configuration.php:330
+msgid "Are the mobile numbers of your contacts stored with the country code?"
+msgstr ""
+"Els números mòbils dels vostres contactes estan emmagatzemats amb el codi "
+"del país?"
+
+#: views/configuration.php:337
+msgid ""
+"It is not being verified that they keep the mobile number with a prefix. If "
+"the mobile number has no prefix, add the prefix of the country of the "
+"contact."
+msgstr ""
+"No s´està comprobant que es guardi el número de mòbil amb el prefixe. Si el "
+"número de mòbil no té prefix, afegir el prefixe del país del contacte"
+
+#: views/configuration.php:342
+msgid "Yes, all numbers are stored with their corresponding country code."
+msgstr ""
+"Sí, tots els números s'emmagatzemen amb el seu prefixe de país corresponent."
+
+#: views/configuration.php:398
+msgid "Add the number with a prefix, without the + sign and without spaces."
+msgstr "Afegiu el número amb el prefix, sense el signe + i sense espais."
+
+#: views/configuration.php:404
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: views/configuration.php:421
+msgid "The sending configuration chosen does not allow dynamic senders."
+msgstr "La configuració d'enviament seleccionada no permet remitents dinàmics."
+
+#: views/export.php:2 views/export.php:12 woo-mensagia.php:114
+#: woo-mensagia.php:115
+msgid "Export to Mensagia"
+msgstr "Exportar a Mensagia"
+
+#: views/export.php:20
+msgid "Choose the user roles to export"
+msgstr "Escull els rols d’usuari per exportar"
+
+#: views/export.php:31
+msgid "You must choose at least one role to export to Mensagia"
+msgstr "Heu de triar com a mínim un rol per exportar a Mensagia"
+
+#: views/export.php:38
+msgid "Choose the agenda name"
+msgstr "Tria el nom de l'agenda"
+
+#: views/export.php:43
+msgid "The following agendas will be created on Mensagia:"
+msgstr "Les següents agendes es crearan a Mensagia:"
+
+#: views/export.php:44
+msgid "The agenda name cannot be empty"
+msgstr "El nom de l'agenda no pot estar buit"
+
+#: views/export.php:51
+msgid "If this agenda already exists in Mensagia. Do you want to delete it?"
+msgstr "Si aquesta agenda ja existeix a Mensagia. Voleu eliminar-la?"
+
+#: views/export.php:56
+msgid "No"
+msgstr "No"
+
+#: views/export.php:59
+msgid "Yes"
+msgstr "Si"
+
+#: views/export.php:66
+msgid "Fields to export"
+msgstr "Camps a exportar"
+
+#: views/export.php:73
+msgid "Users"
+msgstr "Usuaris"
+
+#: views/export.php:74
+msgid "Mobile phone"
+msgstr "Telèfon mòbil"
+
+#: views/export.php:75
+msgid "Name and lastname"
+msgstr "Nom i cognoms"
+
+#: views/export.php:76
+msgid "Email"
+msgstr "Email"
+
+#: views/export.php:77 views/export.php:78 views/export.php:79
+#: views/export.php:90 views/export.php:91 views/export.php:92
+#: views/export.php:93 views/export.php:94 views/export.php:95
+#: views/export.php:96
+msgid "Mensagia extra field"
+msgstr "Mensagia camp personal.litzat"
+
+#: views/export.php:77
+msgid "Customer ID"
+msgstr "ID Client"
+
+#: views/export.php:78
+msgid "Creation date"
+msgstr "Data de creació"
+
+#: views/export.php:79
+msgid "User role"
+msgstr "Rol d’usuari"
+
+#: views/export.php:83 views/export.php:100
+msgid "Mark / Unmark all"
+msgstr "Marcar / Desmarcar"
+
+#: views/export.php:89
+msgid "Orders"
+msgstr "Comandes"
+
+#: views/export.php:90
+msgid "Last order date"
+msgstr "Última comanda"
+
+#: views/export.php:91
+msgid "Number of orders placed"
+msgstr "Nombre de comandes"
+
+#: views/export.php:92
+msgid "Total spent"
+msgstr "Total gastat"
+
+#: views/export.php:93
+msgid "Total spent this year"
+msgstr "Total gastat aquest any"
+
+#: views/export.php:94
+msgid "Total spent the last year"
+msgstr "Total gastat el any passat"
+
+#: views/export.php:95
+msgid "Total spent this month"
+msgstr "Total gastat aquest mes"
+
+#: views/export.php:96
+msgid "Total spent the last month"
+msgstr "Total gastat el mes passat"
+
+#: views/export.php:117
+msgid "Export groups to Mensagia"
+msgstr "Exportar grups a Mensagia"
+
+#: views/export.php:130
+msgid "Export"
+msgstr "Exportar"
+
+#: views/export.php:134
+msgid ""
+"Export has ended unexpectedly. Check the export errors to know the reason."
+msgstr ""
+"L’exportació ha finalitzat inesperadament. Comproveu els errors d'exportació "
+"per saber la raó."
+
+#: views/export.php:138
+msgid "Export completed successfully."
+msgstr "Exportació completada correctament."
+
+#: views/export.php:148
+msgid "Export processing"
+msgstr "Procès d’exportació"
+
+#: views/export.php:151
+msgid "Export errors"
+msgstr "Errors de l'exportació"
+
+#: views/partials/modalDemo.php:7
+msgid "Thanks for trying the Mensagia WooCoomerce Plugin"
+msgstr "Gràcies per provar el plugin de Mensagia per WooCoomerce "
+
+#: views/partials/modalDemo.php:10
+msgid "If you want to try this plugin, you can download it for free from:"
+msgstr "Si voleu provar aquest plugin, pot descarregar-lo gratuïtament de:"
+
+#: views/partials/modalDemo.php:19
+msgid "Continue"
+msgstr "Continuar"
+
+#: views/partials/textarea.php:10
+msgid "SMS example"
+msgstr "Exemple SMS"
+
+#: views/partials/textarea.php:50
+msgid "Close"
+msgstr "Tancar"
+
+#: views/partials/textarea.php:52
+msgid "Saved successfully"
+msgstr "Guardat correctament"
+
+#: views/partials/textarea.php:53
+msgid "Error saving data"
+msgstr "Erro en guardar les dades"
+
+#: views/partials/vars.php:4
+msgid "Customer variables"
+msgstr "Variables de client"
+
+#: views/partials/vars.php:39
+msgid "Store variables"
+msgstr "Variables de botiga"
+
+#: views/partials/vars.php:50
+msgid "Order variables"
+msgstr "Variables de comandes"
+
+#: views/partials/vars.php:64
+msgid "Product variables"
+msgstr "Variables de producte"
+
+#: views/partials/vars.php:77
+msgid "Refunds"
+msgstr "Devol.lucions"
+
+#: views/sms_notifications.php:2 woo-mensagia.php:105 woo-mensagia.php:106
+msgid "SMS Notifications"
+msgstr "Notificacions per SMS"
+
+#: views/sms_notifications.php:9
+msgid "Order Status"
+msgstr "Estat de la comanda"
+
+#: views/sms_notifications.php:13
+msgid "Customer notifications"
+msgstr "Notificacions de client"
+
+#: views/sms_notifications.php:14
+msgid "Administrators notifications"
+msgstr "Notificacions d'administradors"
+
+#: views/sms_notifications.php:19
+msgid "Administrators: Order status"
+msgstr "Administradors: Estat de la comanda"
+
+#: views/sms_notifications.php:30 views/sms_notifications.php:56
+#: views/sms_notifications.php:75 views/sms_notifications.php:93
+#: views/sms_notifications.php:121 views/sms_notifications.php:154
+#: views/sms_notifications.php:181 views/sms_notifications.php:199
+#: views/sms_notifications.php:216
+msgid "Edit notification"
+msgstr "Editar la notificació"
+
+#: views/sms_notifications.php:47
+msgid "Administrators: Orders"
+msgstr "Administradors: Comandes"
+
+#: views/sms_notifications.php:54 views/sms_notifications.php:179
+msgid "New order"
+msgstr "Nova comanda"
+
+#: views/sms_notifications.php:73 views/sms_notifications.php:197
+msgid "Payment completed"
+msgstr "Pagament completat"
+
+#: views/sms_notifications.php:91 views/sms_notifications.php:214
+msgid "Refund completed"
+msgstr "Devol.lució completada"
+
+#: views/sms_notifications.php:112
+msgid "Administrators: Products"
+msgstr "Administradors: productes"
+
+#: views/sms_notifications.php:119
+msgid "Product deleted"
+msgstr "Producte esborrat"
+
+#: views/sms_notifications.php:143
+msgid "Customers: Order status"
+msgstr "Clients: Estat de la comanda"
+
+#: views/sms_notifications.php:172
+msgid "Customers: Orders"
+msgstr "Clients: comandes"
+
+#: views/sms_notifications.php:248
+msgid "Notification ACTIVATED"
+msgstr "Notificació ACTIVADA"
+
+#: views/sms_notifications.php:249
+msgid "Notification disabled"
+msgstr "Notificació desactivada"
+
+#: woo-mensagia.php:75
+msgid ""
+"The Mensagia plugin only works if  <a href=\"http://wordpress.org/extend/"
+"plugins/woocommerce/\">WooCommerce</a> is installed and actived. Please, "
+"install/active it to use the Mensagia plugin."
+msgstr ""
+"El complement de Mensagia només funciona si <a href=\"http://wordpress.org/"
+"extend/plugins/woocommerce/\">WooCommerce</a> està instal·lat i activat. "
+"Instal·leu-lo / activeu-lo per utilitzar el plugin de Mensagia."
+
+#: woo-mensagia.php:94 woo-mensagia.php:95
+msgid "Mensagia"
+msgstr "Mensagia"
+
+#: woo-mensagia.php:134 woo-mensagia.php:159 woo-mensagia.php:200
+#: woo-mensagia.php:233 woo-mensagia.php:259
+msgid "Demo data can not be modified"
+msgstr "No es poden modificar les dades de demostració"
+
+#: woo-mensagia.php:147
+msgid "Prefix mode saved succesfully"
+msgstr "El mode de prefix s'ha guardar correctament"
+
+#: woo-mensagia.php:149
+msgid "Error saving prefix mode"
+msgstr "S'ha produït un error en guardar el mode de prefix"
+
+#: woo-mensagia.php:170
+msgid "You must enter a valid email address"
+msgstr "Heu d'introduir una adreça electrònica vàlida"
+
+#: woo-mensagia.php:172
+msgid "You must enter a valid password"
+msgstr "Heu d'introduir una contrasenya vàlida"
+
+#: woo-mensagia.php:186
+msgid "Account connected!"
+msgstr "Compte connectat!"
+
+#: woo-mensagia.php:190
+msgid "The access data does not correspond to any active Mensagia account."
+msgstr "Les dades d'accés no corresponen a cap compte actiu de Mensagia."
+
+#: woo-mensagia.php:215
+msgid "Administrator created correctly."
+msgstr "L'administrador s'ha creat correctament."
+
+#: woo-mensagia.php:217
+msgid "Error creating administrator."
+msgstr "S'ha produït un error en crear l'administrador."
+
+#: woo-mensagia.php:220
+msgid "An administrator already exists with this number."
+msgstr "Ja existeix un administrador amb aquest número."
+
+#: woo-mensagia.php:223
+msgid "Incorrect data."
+msgstr "Dades incorrectes"
+
+#: woo-mensagia.php:246
+msgid "Administrator successfully deleted."
+msgstr "S'ha eliminat correctament l'administrador."
+
+#: woo-mensagia.php:248
+msgid "Error removing administrator."
+msgstr "S'ha produït un error en eliminar l'administrador."
+
+#: woo-mensagia.php:271
+msgid "The delivery settings have been configured correctly."
+msgstr "La configuració d’enviament s'ha configurat correctament."
+
+#: woo-mensagia.php:273
+msgid "You have not chosen any delivery settings."
+msgstr "No heu escollit cap configuració d’enviament."
+
+#: woo-mensagia.php:331
+msgid "You must create a delivery setting in Mensagia."
+msgstr "Heu de crear una configuració d’enviament a Mensagia."
+
+#: woo-mensagia.php:335
+msgid "You must choose a delivery setting in Mensagia."
+msgstr "Heu de triar una configuració d’enviament a Mensagia."
+
+#: woo-mensagia.php:349
+msgid "You must sign in your Mensagia account."
+msgstr "Heu de conectar el vostre compte de Mensagia."
+
+#: woo-mensagia.php:357
+msgid "The Mensagia plugin is correctly configured!"
+msgstr "El plugin de Mensagia està ben configurat!"
+
+#. Plugin Name of the plugin/theme
+msgid "Mensagia for WooCommerce"
+msgstr "Mensagia per WooCoomerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://mensagia.com/plugin-sms"
+msgstr "https://mensagia.com/plugin-sms"
+
+#. Description of the plugin/theme
+msgid ""
+"Connect your ecommerce with Mensagia to create hypersegmented campaigns and "
+"send automatic notifications through SMS or Email Marketing."
+msgstr ""
+"Connecta el teu ecommerce amb Mensagia per a crear campanyes "
+"hipersegmentades i enviar notificacions automàtiques a través de SMS o Email "
+"Màrqueting."
+
+#. Author of the plugin/theme
+msgid "Sinermedia"
+msgstr "sinermedia"
+
+#. Author URI of the plugin/theme
+msgid "http://sinermedia.com"
+msgstr "http://sinermedia.com"
+
+#~ msgid "You must create at least one administrator"
+#~ msgstr "Heu de crear com a mínim un administrador"
+
+#~ msgid ""
+#~ "Send SMS from your ecommerce. You will be able to generate automatic "
+#~ "notifications and create SMS Marketing campaigns."
+#~ msgstr ""
+#~ "Envía SMS des de el teu ecommerce. Podrás generar notificacions "
+#~ "automàtiques i crear campanyes de SMS Marketing."
+
+#~ msgid "Choose the prefix to create the agenda"
+#~ msgstr "Trieu el prefix per crear l'agenda"
+
+#~ msgid "Mensagia Plugin for WooCoomerce"
+#~ msgstr "Plugin de Mensagia per WooCommerce"

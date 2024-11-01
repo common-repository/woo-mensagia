@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2017 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="m-mensagia" unicode="&#xe800;" d="M28 649h119l188-446h3l186 446h119v-590h-80v485h-2l-199-485h-53l-200 485h-1v-485h-80v590z m944-600l-218 602h-69l218-602h69z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

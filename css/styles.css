@@ -1,0 +1,63 @@
+body{
+    background-color: #f1f1f1 !important;
+}
+
+.wrap{
+    margin-bottom:20px;
+}
+
+
+.panel-heading {
+    color: #333;
+    border-color: #ddd;
+    font-weight:bold;
+    font-size:16px;
+}
+
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.bootstrap-wrapper .nav-tabs {
+    border-bottom: none;
+}
+
+
+.smsNotificationsTable tbody>tr>td {
+    border-top: none;
+    color: #666;
+    padding: 3px 7px;
+    vertical-align: middle;
+    word-wrap: nowrap;
+    font-size: 14px;
+    border-bottom: solid 1px #EAEDEF;
+}
+
+.trvisible:hover {
+    background-color: #eee !important;
+}
+
+.headerLngTXT{
+    font-weight:bold;
+    text-transform: uppercase;
+}
+
+.bootstrap .table tbody>tr:hover>td{
+    background-color: transparent !important;
+}
+
+.trvisible:hover{
+    background-color: #eee !important;
+}
+
+.openMsgSelector{
+    cursor:pointer;
+}
+
+.table_vars tbody tr td{
+    cursor:pointer;
+    height:30px;
+}

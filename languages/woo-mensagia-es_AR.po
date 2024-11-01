@@ -1,0 +1,785 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mensagia for WooCoomerce\n"
+"POT-Creation-Date: 2020-10-14 12:34+0200\n"
+"PO-Revision-Date: 2020-10-14 12:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woo-mensagia.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/MensagiaPrestashopExport.php:77
+msgid "Import completed"
+msgstr "Importación completada"
+
+#: classes/MensagiaPrestashopExport.php:78
+msgid "Total contacts processed"
+msgstr "Total de contactos procesados"
+
+#: classes/MensagiaPrestashopExport.php:80
+msgid "Total contacts created"
+msgstr "Total de contactos creados"
+
+#: classes/MensagiaPrestashopExport.php:82
+msgid "Total contacts imported"
+msgstr "Total de contactos importados"
+
+#: classes/MensagiaPrestashopExport.php:84
+msgid "Total errors"
+msgstr "Total de errores"
+
+#: classes/MensagiaPrestashopExport.php:115
+msgid "Import groups to Mensagia"
+msgstr "Importar grupos a Mensagia"
+
+#: classes/MensagiaPrestashopExport.php:131
+msgid "Request processed correctly."
+msgstr "Solicitud procesada correctamente."
+
+#: classes/MensagiaPrestashopExport.php:132
+msgid "Processed contacts"
+msgstr "Contactos procesados"
+
+#: classes/MensagiaPrestashopExport.php:134
+msgid "Created contacts"
+msgstr "Contactos creados"
+
+#: classes/MensagiaPrestashopExport.php:136
+msgid "Imported contacts"
+msgstr "Contactos importados"
+
+#: classes/MensagiaPrestashopExport.php:138
+msgid "Errors"
+msgstr "Errores"
+
+#: classes/MensagiaPrestashopExport.php:172
+msgid "There was an error importing in Mensagia."
+msgstr "Se produjo un error al importar en Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:186
+msgid "Import finished. Completed requests: "
+msgstr "La importación ha finalizado. Peticiones completadas:"
+
+#: classes/MensagiaPrestashopExport.php:190
+msgid "Making request to Mensagia. Completed requests: "
+msgstr "Haciendo peticiones a Mensagia. Solicitudes completadas:"
+
+#: classes/MensagiaPrestashopExport.php:194
+msgid "There was an unexpected error checking the processes in Mensagia."
+msgstr "Se produjo un error inesperado al comprobar los procesos en Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:220
+msgid "Import requests to Mensagia"
+msgstr "Peticiones de importación a Mensagia"
+
+#: classes/MensagiaPrestashopExport.php:227
+msgid "Users import requests to the agenda: "
+msgstr "Peticiones de importaciones a la agenda:"
+
+#: classes/MensagiaPrestashopExport.php:233
+msgid "Request successfully made. Request number "
+msgstr "Petición realizada con éxito. Número de petición"
+
+#: classes/MensagiaPrestashopExport.php:276
+msgid "Import requests from groups to Mensagia finished"
+msgstr "Las peticiones de importación de los grupos a Mensagia han finalizado"
+
+#: classes/MensagiaPrestashopExport.php:278
+#: classes/MensagiaPrestashopExport.php:287
+msgid "Import request from groups to Mensagia finished"
+msgstr "Peticiones de importación de los grupos a Mensagia han finalizado"
+
+#: classes/MensagiaPrestashopExport.php:291
+msgid "Import requests to Mensagia have completed successfully."
+msgstr "Las peticiones de importación a Mensagia se han completado con éxito."
+
+#: classes/MensagiaPrestashopExport.php:296
+msgid "Groups to export do not have valid users."
+msgstr "Los grupos a exportar no tienen usuarios válidos."
+
+#: classes/MensagiaPrestashopExport.php:662
+msgid "Extra fields"
+msgstr "Campos personalizados"
+
+#: classes/MensagiaPrestashopExport.php:665
+msgid "Checking extra fields: "
+msgstr "Comprobando campos personalizados"
+
+#: classes/MensagiaPrestashopExport.php:671
+msgid "The extra field doesn't exist on Mensagia."
+msgstr "El campo personalizado no existe en Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:696
+msgid "Extra field created succesfully."
+msgstr "Campo personalizado creado con éxito."
+
+#: classes/MensagiaPrestashopExport.php:699
+#: classes/MensagiaPrestashopExport.php:700
+msgid "Error when creating an extra field"
+msgstr "Error al crear un campo personalizado"
+
+#: classes/MensagiaPrestashopExport.php:706
+msgid "The extra field already exists in Mensagia."
+msgstr "El campo personalizado ya existe en Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:728
+msgid "Delete agendas"
+msgstr "Eliminar agendas"
+
+#: classes/MensagiaPrestashopExport.php:731
+msgid "Deleting agenda: "
+msgstr "Eliminando agenda:"
+
+#: classes/MensagiaPrestashopExport.php:741
+msgid "Agenda deleted succesfully."
+msgstr "Agenda borrada con éxito."
+
+#: classes/MensagiaPrestashopExport.php:744
+msgid "The agenda could not be deleted."
+msgstr "No se pudo eliminar la agenda."
+
+#: classes/MensagiaPrestashopExport.php:748
+msgid "The agenda doesn't exist in Mensagia."
+msgstr "La agenda no existe en Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:775
+msgid "Creating agenda in Mensagia"
+msgstr "Creando agenda en Mensagia"
+
+#: classes/MensagiaPrestashopExport.php:778
+msgid "Creating agenda: "
+msgstr "Creando agenda:"
+
+#: classes/MensagiaPrestashopExport.php:786
+msgid "The agenda exists in Mensagia."
+msgstr "La agenda existe en Mensagia."
+
+#: classes/MensagiaPrestashopExport.php:793
+msgid "Agenda created succesfully."
+msgstr "Agenda creada con éxito."
+
+#: classes/MensagiaPrestashopExport.php:796
+#: classes/MensagiaPrestashopExport.php:797
+msgid "Error creating agenda"
+msgstr "Error al crear la agenda"
+
+#: classes/MensagiaPrestashopExport.php:818
+msgid "Preparing export groups to Mensagia"
+msgstr "Preparando grupos para la exportación a Mensagia"
+
+#: classes/MensagiaPrestashopExport.php:820
+msgid "Collecting information for export to Mensagia."
+msgstr "Recolección de información para la exportación a Mensagia."
+
+#: views/configuration.php:2 woo-mensagia.php:123 woo-mensagia.php:124
+msgid "Configuration"
+msgstr "Configuración"
+
+#: views/configuration.php:9
+msgid "You must enter your Mensagia's access data before using this plugin"
+msgstr ""
+"Debes ingresar los datos de acceso de Mensagia antes de usar este plugin"
+
+#: views/configuration.php:12
+msgid "You must enter a valid Mensagia account before using this plugin"
+msgstr ""
+"Debes ingresar los datos de acceso de Mensagia antes de usar este plugin"
+
+#: views/configuration.php:18
+msgid ""
+"In order to use the Mensagia plugin you must configure it first. Correct the "
+"following errors:"
+msgstr ""
+"Para usar el plugin de Mensagia, primero debe configurarlo. Corrija los "
+"siguientes errores:"
+
+#: views/configuration.php:42
+msgid "Connect your Mensagia account with Wordpress"
+msgstr "Conecta tu cuenta de Mensagia con Wordpress"
+
+#: views/configuration.php:49
+msgid "You must connect your Mensagia account to use this plugin"
+msgstr "Debes conectar tu cuenta Mensagia para usar este plugin"
+
+#: views/configuration.php:56
+msgid "Mensagia's email access"
+msgstr "Email de acceso a Mensagia"
+
+#: views/configuration.php:68
+msgid "Mensagia's password access"
+msgstr "Contraseña de acceso a Mensagia"
+
+#: views/configuration.php:89
+msgid "Account correctly connected to Mensagia"
+msgstr "Cuenta correctamente conectada con Mensagia"
+
+#: views/configuration.php:103
+msgid "Available balance"
+msgstr "Saldo disponible"
+
+#: views/configuration.php:123
+msgid "Create new account"
+msgstr "Crear una nueva cuenta"
+
+#: views/configuration.php:124
+msgid "Add balance"
+msgstr "Añadir saldo"
+
+#: views/configuration.php:125
+msgid "Remember password"
+msgstr "Recordar contraseña"
+
+#: views/configuration.php:139 views/configuration.php:231
+#: views/configuration.php:356 views/configuration.php:405
+#: views/partials/textarea.php:49
+msgid "Save"
+msgstr "Guardar"
+
+#: views/configuration.php:152
+msgid "Send API settings and source address"
+msgstr "Configuración de envio API y remitentes de envío"
+
+#: views/configuration.php:167 views/configuration.php:209
+#: views/configuration.php:218 views/configuration.php:320
+msgid "Attention!"
+msgstr "¡Atención!"
+
+#: views/configuration.php:167
+msgid ""
+"You must choose a source address configuration in order to use SMS "
+"Notifications"
+msgstr ""
+"Debes escoger una configuración de envío para poder utilizar las "
+"Notificaciones SMS."
+
+#: views/configuration.php:175
+msgid "Choose configuration to send"
+msgstr "Escoger configuración de envío"
+
+#: views/configuration.php:180
+msgid "Choose a configuration to send..."
+msgstr "Escoger una configuración de envío"
+
+#: views/configuration.php:197
+msgid "The source address will be"
+msgstr "El remitente será"
+
+#: views/configuration.php:209
+msgid ""
+"You do not have any configuration to send created in Mensagia. You must "
+"create one in:"
+msgstr ""
+"No tienes ninguna configuración de envío creada en Mensagia. Debes crear una "
+"en:"
+
+#: views/configuration.php:209
+msgid "API shipment settings in Mensagia"
+msgstr "Configuraciones de envío API en Mensagia"
+
+#: views/configuration.php:218
+msgid ""
+"You must first configure your access to Mensagia before configuring the "
+"configuration to send."
+msgstr ""
+"Primero debes configurar tu acceso a Mensagia antes de configurar la "
+"configuración de envío."
+
+#: views/configuration.php:247
+msgid "Shop administrators"
+msgstr "Administradores de la tienda"
+
+#: views/configuration.php:253
+msgid ""
+"Create store administrators to recieve SMS notifications of administrator "
+"type."
+msgstr ""
+"Crear administradores de la tienda para recibir notificaciones SMS de tipo "
+"administrador."
+
+#: views/configuration.php:258 views/configuration.php:385
+msgid "Name"
+msgstr "Nombre"
+
+#: views/configuration.php:259 views/configuration.php:394
+msgid "Phone number"
+msgstr "Numero de teléfono"
+
+#: views/configuration.php:260 views/configuration.php:273
+msgid "Delete"
+msgstr "Borrar"
+
+#: views/configuration.php:287
+msgid "Attention"
+msgstr "Atención"
+
+#: views/configuration.php:287
+msgid ""
+"You do not have administrators created, you must create at least one to use "
+"SMS Notifications."
+msgstr ""
+"No tienes administradores creados, debes crear al menos uno para utilizar "
+"las Notificaciones SMS."
+
+#: views/configuration.php:290
+msgid ""
+"Create store administrators to recieve SMS notifications of administrator "
+"type"
+msgstr ""
+"Crear administradores de la tienda para recibir notificaciones SMS de tipo "
+"administrador."
+
+#: views/configuration.php:302 views/configuration.php:376
+msgid "Create administrator"
+msgstr "Crear administrador"
+
+#: views/configuration.php:314
+msgid "Management of international prefixes on mobile numbers"
+msgstr "Gestión de los prefijos internacionales en los números de móvil"
+
+#: views/configuration.php:320
+msgid ""
+"You must choose how we will handle the prefixes of your contact's mobile "
+"numbers."
+msgstr ""
+"Debes elegir cómo manejamos los prefijos en los números de móvil de tus "
+"contactos."
+
+#: views/configuration.php:326
+msgid ""
+"In order to send SMS we need numbers to have prefixes. Tell us how we should "
+"proceed with your contacts's mobile numbers"
+msgstr ""
+"Para poder enviar SMS necesitamos que los números tengan prefijos. Indícanos "
+"como debemos proceder con los números de móvil de tus contactos"
+
+#: views/configuration.php:330
+msgid "Are the mobile numbers of your contacts stored with the country code?"
+msgstr ""
+"¿Los números de móvil de tus contactos están guardados con el prefijo del "
+"país?"
+
+#: views/configuration.php:337
+msgid ""
+"It is not being verified that they keep the mobile number with a prefix. If "
+"the mobile number has no prefix, add the prefix of the country of the "
+"contact."
+msgstr ""
+"No se está comprobando que guarden el número de móvil con prefijo . Si el "
+"número de móvil no tiene prefijo, añadirle el prefijo del país del contacto."
+
+#: views/configuration.php:342
+msgid "Yes, all numbers are stored with their corresponding country code."
+msgstr ""
+"Si, todos los números están guardados con su prefijo de país correspondiente."
+
+#: views/configuration.php:398
+msgid "Add the number with a prefix, without the + sign and without spaces."
+msgstr "Añade el número con el prefijo, sin el signo + y sin espacios."
+
+#: views/configuration.php:404
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: views/configuration.php:421
+msgid "The sending configuration chosen does not allow dynamic senders."
+msgstr "La configuración de envío escogida no permite remitentes dinámicos"
+
+#: views/export.php:2 views/export.php:12 woo-mensagia.php:114
+#: woo-mensagia.php:115
+msgid "Export to Mensagia"
+msgstr "Exportar a Mensagia"
+
+#: views/export.php:20
+msgid "Choose the user roles to export"
+msgstr "Elige los roles de usuario para la exportación"
+
+#: views/export.php:31
+msgid "You must choose at least one role to export to Mensagia"
+msgstr "Debe seleccionar al menos un rol de usuarios para exportar a Mensagia"
+
+#: views/export.php:38
+msgid "Choose the agenda name"
+msgstr "Elige el nombre de la agenda"
+
+#: views/export.php:43
+msgid "The following agendas will be created on Mensagia:"
+msgstr "Se crearán las siguientes agendas en Mensagia:"
+
+#: views/export.php:44
+msgid "The agenda name cannot be empty"
+msgstr "El nombre de la agenda no puede estar vacío"
+
+#: views/export.php:51
+msgid "If this agenda already exists in Mensagia. Do you want to delete it?"
+msgstr "Si la agenda ya existe en Mensagia. ¿Deseas eliminarla?"
+
+#: views/export.php:56
+msgid "No"
+msgstr "No"
+
+#: views/export.php:59
+msgid "Yes"
+msgstr "Sí"
+
+#: views/export.php:66
+msgid "Fields to export"
+msgstr "Campos a exportar"
+
+#: views/export.php:73
+msgid "Users"
+msgstr "Usuarios"
+
+#: views/export.php:74
+msgid "Mobile phone"
+msgstr "Teléfono móvil"
+
+#: views/export.php:75
+msgid "Name and lastname"
+msgstr "Nombre y apellido"
+
+#: views/export.php:76
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: views/export.php:77 views/export.php:78 views/export.php:79
+#: views/export.php:90 views/export.php:91 views/export.php:92
+#: views/export.php:93 views/export.php:94 views/export.php:95
+#: views/export.php:96
+msgid "Mensagia extra field"
+msgstr "Campo personalizado de Mensagia"
+
+#: views/export.php:77
+msgid "Customer ID"
+msgstr "ID de Cliente"
+
+#: views/export.php:78
+msgid "Creation date"
+msgstr "Fecha de creación"
+
+#: views/export.php:79
+msgid "User role"
+msgstr "Rol de usuario"
+
+#: views/export.php:83 views/export.php:100
+msgid "Mark / Unmark all"
+msgstr "Marcar / desmarcar todos"
+
+#: views/export.php:89
+msgid "Orders"
+msgstr "Pedídos"
+
+#: views/export.php:90
+msgid "Last order date"
+msgstr "Fecha del último pedido"
+
+#: views/export.php:91
+msgid "Number of orders placed"
+msgstr "Número de pedidos realizados"
+
+#: views/export.php:92
+msgid "Total spent"
+msgstr "Total gastado"
+
+#: views/export.php:93
+msgid "Total spent this year"
+msgstr "Total gastado este año"
+
+#: views/export.php:94
+msgid "Total spent the last year"
+msgstr "Total gastado el año pasado"
+
+#: views/export.php:95
+msgid "Total spent this month"
+msgstr "Total gastado este mes"
+
+#: views/export.php:96
+msgid "Total spent the last month"
+msgstr "Total gastado el mes pasado"
+
+#: views/export.php:117
+msgid "Export groups to Mensagia"
+msgstr "Exportar grupos a Mensagia"
+
+#: views/export.php:130
+msgid "Export"
+msgstr "Exportar"
+
+#: views/export.php:134
+msgid ""
+"Export has ended unexpectedly. Check the export errors to know the reason."
+msgstr ""
+"La exportación ha terminado inesperadamente. Comprueba los errores de "
+"exportación para saber la razón."
+
+#: views/export.php:138
+msgid "Export completed successfully."
+msgstr "La exportación se ha completado con éxito"
+
+#: views/export.php:148
+msgid "Export processing"
+msgstr "Proceso de exportación"
+
+#: views/export.php:151
+msgid "Export errors"
+msgstr "Errores de la exportación"
+
+#: views/partials/modalDemo.php:7
+msgid "Thanks for trying the Mensagia WooCoomerce Plugin"
+msgstr "Gracias por probar el Plugin de Mensagia para WooCoomerce"
+
+#: views/partials/modalDemo.php:10
+msgid "If you want to try this plugin, you can download it for free from:"
+msgstr "Si quieres probar este plugin, puede descargarlo gratuitamente desde:"
+
+#: views/partials/modalDemo.php:19
+msgid "Continue"
+msgstr "Continuar"
+
+#: views/partials/textarea.php:10
+msgid "SMS example"
+msgstr "Ejemplo SMS"
+
+#: views/partials/textarea.php:50
+msgid "Close"
+msgstr "Cerrar"
+
+#: views/partials/textarea.php:52
+msgid "Saved successfully"
+msgstr "Guardado correctamente"
+
+#: views/partials/textarea.php:53
+msgid "Error saving data"
+msgstr "Error guardando los datos"
+
+#: views/partials/vars.php:4
+msgid "Customer variables"
+msgstr "Variables de cliente"
+
+#: views/partials/vars.php:39
+msgid "Store variables"
+msgstr "Variables de la tienda"
+
+#: views/partials/vars.php:50
+msgid "Order variables"
+msgstr "Variables de pedido"
+
+#: views/partials/vars.php:64
+msgid "Product variables"
+msgstr "Variables de producto"
+
+#: views/partials/vars.php:77
+msgid "Refunds"
+msgstr "Devoluciones"
+
+#: views/sms_notifications.php:2 woo-mensagia.php:105 woo-mensagia.php:106
+msgid "SMS Notifications"
+msgstr "Notificaciones SMS"
+
+#: views/sms_notifications.php:9
+msgid "Order Status"
+msgstr "Estado del pedido"
+
+#: views/sms_notifications.php:13
+msgid "Customer notifications"
+msgstr "Notificaciones para clientes"
+
+#: views/sms_notifications.php:14
+msgid "Administrators notifications"
+msgstr "Notificaciones para administradores"
+
+#: views/sms_notifications.php:19
+msgid "Administrators: Order status"
+msgstr "Administradores: Estado del pedido"
+
+#: views/sms_notifications.php:30 views/sms_notifications.php:56
+#: views/sms_notifications.php:75 views/sms_notifications.php:93
+#: views/sms_notifications.php:121 views/sms_notifications.php:154
+#: views/sms_notifications.php:181 views/sms_notifications.php:199
+#: views/sms_notifications.php:216
+msgid "Edit notification"
+msgstr "Editar notificación"
+
+#: views/sms_notifications.php:47
+msgid "Administrators: Orders"
+msgstr "Administradores: Pedidos"
+
+#: views/sms_notifications.php:54 views/sms_notifications.php:179
+msgid "New order"
+msgstr "Nuevo pedido"
+
+#: views/sms_notifications.php:73 views/sms_notifications.php:197
+msgid "Payment completed"
+msgstr "Pago completado"
+
+#: views/sms_notifications.php:91 views/sms_notifications.php:214
+msgid "Refund completed"
+msgstr "Devolución completada"
+
+#: views/sms_notifications.php:112
+msgid "Administrators: Products"
+msgstr "Administradores: Productos"
+
+#: views/sms_notifications.php:119
+msgid "Product deleted"
+msgstr "Producto eliminado"
+
+#: views/sms_notifications.php:143
+msgid "Customers: Order status"
+msgstr "Clientes: Estado del pedido"
+
+#: views/sms_notifications.php:172
+msgid "Customers: Orders"
+msgstr "Clientes: Pedidos"
+
+#: views/sms_notifications.php:248
+msgid "Notification ACTIVATED"
+msgstr "Notificación ACTIVADA"
+
+#: views/sms_notifications.php:249
+msgid "Notification disabled"
+msgstr "Notificacion desactivada"
+
+#: woo-mensagia.php:75
+msgid ""
+"The Mensagia plugin only works if  <a href=\"http://wordpress.org/extend/"
+"plugins/woocommerce/\">WooCommerce</a> is installed and actived. Please, "
+"install/active it to use the Mensagia plugin."
+msgstr ""
+"El plugin de  Mensagia sólo funciona si <a href=\"http://wordpress.org/"
+"extend/plugins/woocommerce/\">WooCommerce</a> está instalado y activado. Por "
+"favor, instálelo / active para usar el plugin Mensagia."
+
+#: woo-mensagia.php:94 woo-mensagia.php:95
+msgid "Mensagia"
+msgstr "Mensagia"
+
+#: woo-mensagia.php:134 woo-mensagia.php:159 woo-mensagia.php:200
+#: woo-mensagia.php:233 woo-mensagia.php:259
+msgid "Demo data can not be modified"
+msgstr "Los datos de demostración no se pueden modificar"
+
+#: woo-mensagia.php:147
+msgid "Prefix mode saved succesfully"
+msgstr "Modo de prefijo guardado con éxito"
+
+#: woo-mensagia.php:149
+msgid "Error saving prefix mode"
+msgstr "Error al guardar el modo del prefijo"
+
+#: woo-mensagia.php:170
+msgid "You must enter a valid email address"
+msgstr "Debes introducir un email válido"
+
+#: woo-mensagia.php:172
+msgid "You must enter a valid password"
+msgstr "Debes introducir una contraseña válida"
+
+#: woo-mensagia.php:186
+msgid "Account connected!"
+msgstr "¡Cuenta conectada!"
+
+#: woo-mensagia.php:190
+msgid "The access data does not correspond to any active Mensagia account."
+msgstr ""
+"Los datos de acceso no corresponden a ninguna cuenta activa de Mensagia."
+
+#: woo-mensagia.php:215
+msgid "Administrator created correctly."
+msgstr "Administrador creado correctamente."
+
+#: woo-mensagia.php:217
+msgid "Error creating administrator."
+msgstr "Error al crear administrador."
+
+#: woo-mensagia.php:220
+msgid "An administrator already exists with this number."
+msgstr "Un administrador ya existe con este número."
+
+#: woo-mensagia.php:223
+msgid "Incorrect data."
+msgstr "Datos incorrectos."
+
+#: woo-mensagia.php:246
+msgid "Administrator successfully deleted."
+msgstr "Administrador eliminado correctamente."
+
+#: woo-mensagia.php:248
+msgid "Error removing administrator."
+msgstr "Error al eliminar el administrador."
+
+#: woo-mensagia.php:271
+msgid "The delivery settings have been configured correctly."
+msgstr "La configuración de envío se ha configurado correctamente."
+
+#: woo-mensagia.php:273
+msgid "You have not chosen any delivery settings."
+msgstr "No ha elegido ninguna configuración de envío."
+
+#: woo-mensagia.php:331
+msgid "You must create a delivery setting in Mensagia."
+msgstr "Debe crear una configuración de envío en Mensagia."
+
+#: woo-mensagia.php:335
+msgid "You must choose a delivery setting in Mensagia."
+msgstr "Debes elegir una configuración de envío en Mensagia."
+
+#: woo-mensagia.php:349
+msgid "You must sign in your Mensagia account."
+msgstr "Debes conectar tu cuenta de Mensagia."
+
+#: woo-mensagia.php:357
+msgid "The Mensagia plugin is correctly configured!"
+msgstr "¡El plugin de Mensagia está configurado correctamente!"
+
+#. Plugin Name of the plugin/theme
+msgid "Mensagia for WooCommerce"
+msgstr "Mensagia para WooCoomerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://mensagia.com/plugin-sms"
+msgstr "https://mensagia.com/plugin-sms"
+
+#. Description of the plugin/theme
+msgid ""
+"Connect your ecommerce with Mensagia to create hypersegmented campaigns and "
+"send automatic notifications through SMS or Email Marketing."
+msgstr ""
+"Conecta tu ecommerce con Mensagia para crear campañas hipersegmentadas y "
+"enviar notificaciones automáticas a través de SMS o Email Marketing."
+
+#. Author of the plugin/theme
+msgid "Sinermedia"
+msgstr "Sinermedia"
+
+#. Author URI of the plugin/theme
+msgid "http://sinermedia.com"
+msgstr "http://sinermedia.com"
+
+#~ msgid "You must create at least one administrator"
+#~ msgstr "Debes crear al menos un administrador"
+
+#~ msgid ""
+#~ "Send SMS from your ecommerce. You will be able to generate automatic "
+#~ "notifications and create SMS Marketing campaigns."
+#~ msgstr ""
+#~ "Envía SMS desde tu ecommerce. Podrás generar notificaciones automáticas y "
+#~ "crear campañas de SMS Marketing."
+
+#~ msgid "Choose the prefix to create the agenda"
+#~ msgstr "Elige el prefijo para crear la agenda"
+
+#~ msgid "Mensagia Plugin for WooCoomerce"
+#~ msgstr "Plugin de Mensagia para WooCommerce"
